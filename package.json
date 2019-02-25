@@ -1,0 +1,12 @@
+{
+  "name": "rhyeen-utils",
+  "version": "0.0.1",
+  "contributors": [
+    "Ryan Saunders"
+  ],
+  "license": "BSD-3-Clause",
+  "repository": "rhyeen/rhyeen-utils",
+  "scripts": {},
+  "dependencies": {},
+  "devDependencies": {}
+}
